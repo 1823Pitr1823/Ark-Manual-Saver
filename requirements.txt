@@ -1,0 +1,10 @@
+pygetwindow
+pyautogui
+tkinter
+pyqt5
+pynput
+notify-py
+xlib
+datetime
+xdotool
+ydotool
