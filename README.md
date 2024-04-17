@@ -4,7 +4,9 @@ On initial start application will ask for directory of Game saves and directory 
 
 ## Controls:
   F5 to open menu 
+  
   ESC to close menu
 ## Platforms
   Linux
+  
   Windows (currently unsupported)
